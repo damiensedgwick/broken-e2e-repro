@@ -1,0 +1,78 @@
+{
+  "./tests/fixtures/openimg/public/img/user-png-w-256-h-256-fit-base.avif": {
+    "size": 1421,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/public/img/user-png-w-832-h-832-fit-base.avif": {
+    "size": 2743,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1lv300038o28ezaojkfo/notes/c4ugfvublmk8td9n4abvrxvh/images/1741333565173-uwk6a9k0s9ujk7izerch6m66-png-w-512-h-512-fit-base.avif": {
+    "size": 11983,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1m7i00068o289np91vu8/notes/jnwk16990qatutrqqzgmn5fy/images/1741333565620-bic2avstm45y46496ij3i8wi-png-w-512-h-512-fit-base.avif": {
+    "size": 13576,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1m7i00068o289np91vu8/notes/jnwk16990qatutrqqzgmn5fy/images/1741333565619-qgav2w2k1z29ogvkqw2xf4ks-png-w-512-h-512-fit-base.avif": {
+    "size": 11983,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/kody-notes/cute-koala-png-w-512-h-512-fit-base.avif": {
+    "size": 11983,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1mjy00098o28esrngohc/notes/cm7yh1mk1000d8o28uet4l3ed/images/1741333566026-wn3jrt57yot8xk4zd3ewghgg-png-w-512-h-512-fit-base.avif": {
+    "size": 13576,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1q1c000d8o268gbv044s/profile-images/1741333570326-j2vndxzd47o6hw9xaognfc9b-downloaded-file-w-256-h-256-fit-base.avif": {
+    "size": 1892,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1r0i000m8o26v3h40e0c/profile-images/1741333571591-gh4alfscdpgb0xgyibydju7q-downloaded-file-w-256-h-256-fit-base.avif": {
+    "size": 1892,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1usw00118o28wn2bicy6/profile-images/1741333576699-dxjrspv7bctsxi3une96bsr9-png-w-256-h-256-fit-base.avif": {
+    "size": 8735,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh1usw00118o28wn2bicy6/profile-images/1741333576699-dxjrspv7bctsxi3une96bsr9-png-w-832-h-832-fit-base.avif": {
+    "size": 35671,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2hc300008of8vh7qdmpp/notes/odxm9lz8z5a2bdd5pbccv4r8/images/1741333608420-nffcitv5s17qdg1m781m86vg-png-w-512-h-512-fit-base.avif": {
+    "size": 11983,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2hcv00008of91722c8od/notes/cm7yh2hdg00048of9w1wam2wi/images/1741333608392-c4sowfdz7g13f95wehh1e6nk-png-w-512-h-512-fit-base.avif": {
+    "size": 13576,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2hck00008ofade2cdfo2/notes/z02cq7z5chzo5ihygekpvto5/images/1741333608430-yeabmylkeb2usivwld068yxl-png-w-512-h-512-fit-base.avif": {
+    "size": 13576,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2hck00008ofade2cdfo2/notes/z02cq7z5chzo5ihygekpvto5/images/1741333608430-juug4ud6c82de4qhxa6poq5n-png-w-512-h-512-fit-base.avif": {
+    "size": 11983,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2l7e000f8odq0rdw5w7c/profile-images/1741333610717-j7tx1no8srap3pgz5ky721vu-downloaded-file-w-256-h-256-fit-base.avif": {
+    "size": 1892,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2lc1000l8odq70q1jur0/profile-images/1741333610884-n39eruiewdo9cvvni1t64637-downloaded-file-w-256-h-256-fit-base.avif": {
+    "size": 1892,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2mch00098of9fgwh5r1b/profile-images/1741333612734-mce2c796eonwsf32u2g86ibh-png-w-256-h-256-fit-base.avif": {
+    "size": 8735,
+    "contentType": "image/avif"
+  },
+  "./tests/fixtures/openimg/fly-storage-tigris-dev/mock-bucket/users/cm7yh2mch00098of9fgwh5r1b/profile-images/1741333612734-mce2c796eonwsf32u2g86ibh-png-w-832-h-832-fit-base.avif": {
+    "size": 35671,
+    "contentType": "image/avif"
+  }
+}
